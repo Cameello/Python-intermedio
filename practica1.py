@@ -32,3 +32,4 @@ print("Elementos en A y en B:", interseccion_conjuntos(A, B))
 print("Elementos en A o en B, pero no en ambos:", diferencia_simetrica(A, B))
 print("El conjunto A es un subconjunto de otro conjunto, B.?:", es_subconjunto(A, B))
 print("El número de elementos del conjunto es:", numero_elementos(A))
+
